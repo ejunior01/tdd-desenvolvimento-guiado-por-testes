@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WyCash.App/WyCash.App.csproj" />
+  <Project Path="WyCash.Test/WyCash.Test.csproj" />
+</Solution>
